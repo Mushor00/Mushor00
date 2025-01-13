@@ -1,4 +1,4 @@
-Hi there 👋 
+<h1>Hi there 👋</h1> 
 <br>
 My name is Oskar Libert. I am currently a student of Computer Science (programming technologies) at the Social Sciences Academy in Lodz.<br>
 My areas of interest include creating programs, applications and working with databases. I would like to grow and develop my skills in these fields.
